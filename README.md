@@ -9,9 +9,9 @@ https://public.tableau.com/views/CitibikeProject-PhilDaniel/Story1?:language=en-
 Alternatively you can visit https://public.tableau.com/app/discover and search for my name Phil Daniel.
 
 ![CB_Ov_Error](Overview.png)
-![CB_Ov_Error](Citibike_Growth.png)
-![CB_Ov_Error](Citibike_Routes.png)
-![CB_Ov_Error](Citibike_Outflow.png)
+![CB_Ov_Error](CitibikeGrowth.png)
+![CB_Ov_Error](CitibikeRoutes.png)
+![CB_Ov_Error](CitibikeOutflow.png)
 
 
 Project completed during a 3 month immersive Data Analytics course from General Assembly.
