@@ -8,6 +8,12 @@ https://public.tableau.com/views/CitibikeProject-PhilDaniel/Story1?:language=en-
 
 Alternatively you can visit https://public.tableau.com/app/discover and search for my name Phil Daniel.
 
+![CB_Ov_Error](Overview.png)
+![CB_Ov_Error](Citibike_Growth.png)
+![CB_Ov_Error](Citibike_Routes.png)
+![CB_Ov_Error](Citibike_Outflow.png)
+
+
 Project completed during a 3 month immersive Data Analytics course from General Assembly.
 
 Students were tasked to analyze a large dataset (1.3M+ records) containing route information collected from users by several RideShare companies.
