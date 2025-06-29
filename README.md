@@ -1,7 +1,9 @@
 # CitibikeProject
 
 Since many people do not have access to a Tableau license, TableauPublic is a free public hosting site for Tableau workbooks (owned by SalesForce, Inc.)
+
 The following is a link to my public profile where you can access the workbook:
+
 https://public.tableau.com/views/CitibikeProject-PhilDaniel/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 Alternatively you can visit https://public.tableau.com/app/discover and search for my name Phil Daniel.
