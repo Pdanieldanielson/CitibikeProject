@@ -19,7 +19,17 @@ Project completed during a 3 month immersive Data Analytics course from General 
 Students were tasked to analyze a large dataset (1.3M+ records) containing route information collected from users by several RideShare companies.
 
 Skills emphasized:
-SQL (PostgreSQL)
+
+
+Python (Jupyter Notebook):
+  - pandas
+  - numpy
+  - matplotlib
+  - Data cleaning
+  - aggregations
+  - function statements
+
+SQL (PostgreSQL):
   - Join statements
   - Union statements
   - Aliasing
